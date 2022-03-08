@@ -1,0 +1,3 @@
+1. Why have you decided to learn Git and GitHub? We are looking to implement it into our Web Design Course.
+
+2. How do you plan to use GitHub in your classroom? We plan to have students submit files to GitHub. 
